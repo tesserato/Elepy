@@ -5,6 +5,7 @@
 - No external output in the example provided, results in the prompt for now
 
 ----
+Mardown in pandoc flavor, soon to be fixed
 
 a~i~ =  Alternativa i;
 g~j~ = Critério j
