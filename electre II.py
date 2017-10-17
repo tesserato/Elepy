@@ -1,4 +1,4 @@
-from helpers import *
+from Ele import *
 import numpy as np
 
 header_dict, data_dict = readtxt('e2.csv')
